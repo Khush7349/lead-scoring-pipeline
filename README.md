@@ -9,7 +9,7 @@ The focus of this project is on **clear logic, transparency, and reproducibility
 ---
 
 ## Project Structure
-
+```
 lead_scoring_demo/
 │
 ├── data/
@@ -22,7 +22,7 @@ lead_scoring_demo/
 │ └── ranked_leads.csv # Ranked output with scores
 │
 └── README.md
-
+```
 ---
 
 ## Input Data
